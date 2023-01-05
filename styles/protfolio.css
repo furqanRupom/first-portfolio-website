@@ -293,3 +293,62 @@ main {
 }
 /* Resume Styles  end*/
 
+
+/* contact styles start */
+
+.contact-container{
+    height: 100%;
+    margin: 100px 0 0;
+    padding: 0 180px;
+    
+    background-color: #FFF8F3;
+}
+
+
+
+.contract-flex-container{
+    display: flex;
+    gap: 110px;
+
+}
+.contract-item{
+    margin: 130px 0 0;
+}
+.contract-item .title{
+    color: #181818;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.contract-item .descrption{
+    margin: 20px 0 30px;
+}
+.contract-links a{
+    padding-right: 24px;
+}
+
+.contract-item form{
+    width: 100%;
+}
+
+.contract-item input{
+    border: none;
+    padding: 18px 15px;
+    margin: 24px 0;
+    width: 100%;
+}
+.contract-item textarea{
+    width: 100%;
+    padding: 18px 15px;
+    margin: 24px 0 0;
+    outline: none;
+    border: none;
+    
+}
+
+
+
+.submit-button{
+    margin: 24px 0 130px;
+}
+/* contact styles end */
