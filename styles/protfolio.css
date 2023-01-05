@@ -49,7 +49,21 @@
 
 /* margin auto setup */
 
+.margin-bottom{
+    margin-bottom: 50px;
+}
 
+
+ .margin-top{
+    margin-top: 110px;
+ }
+ .m-auto{
+    margin: 0 auto;
+ }
+
+section{
+    margin-top: 130px;
+}
 
 /* header and nav styles */
 
@@ -230,3 +244,52 @@ main {
 }
 
 /* what i do and skill section end */
+
+
+
+
+
+/* Resume Styles  start*/
+
+.section-title{
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+}
+.resume-title{
+    margin-bottom: 30px;
+}
+.resume-content{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px 70px;
+}
+
+.resume-item{
+    margin: 30px 0;
+}
+
+.resume-item .title{
+    color: #474747;
+    font-size: 25px;
+}
+
+.resume-item .sub-title{
+    color: #757575;
+    font-size: 20px;
+    margin: 5px 0 20px;
+}
+.resume-item .description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+    line-height: 27px;
+}
+
+.resume-button{
+
+    margin: 60px 0;
+    text-align: center;
+}
+/* Resume Styles  end*/
+
